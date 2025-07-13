@@ -16,7 +16,7 @@ public class Level08 {
 	}
     public int[] solution(int[] numlist, int n) {
         int[] answer = new int[numlist.length];
-        
+        // 문제 보류 하겠씁니다 ㅈ같이 어려워서
         // 진짜 특이한 정렬이네
         // 처음엔 4
         // 다음은 4와 제일 가까운 숫자
@@ -29,7 +29,6 @@ public class Level08 {
         	// 대신 같은 수일 경우엔 +부터 넣고 다음은 마이너스부터
         	
         }
-        
         // 존나 어렵다 정렬
         return answer;
     }
